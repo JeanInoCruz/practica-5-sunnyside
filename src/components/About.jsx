@@ -6,7 +6,6 @@ import graphicDesingDesktop from "../assets/images/desktop/image-graphic-design.
 import graphicDesingMobile from "../assets/images/mobile/image-graphic-design.jpg"
 import photographyDesktop from "../assets/images/desktop/image-photography.jpg"
 import photographyMobile from "../assets/images/mobile/image-photography.jpg"
-
 import { Image } from "./Image";
 import { Text } from "./Text";
 import { ImageText } from "./ImageText";
